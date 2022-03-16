@@ -1,0 +1,201 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "code": 10325,
+      "name": "Binder",
+      "department": "Office supplies",
+      "price": 3.5,
+      "quantity": 46,
+      "selected": false
+    },
+    {
+      "id": 2,
+      "code": 10240,
+      "name": "Notebook",
+      "department": "Office supplies",
+      "price": 2.25,
+      "quantity": 102,
+      "selected": false
+    },
+    {
+      "id": 3,
+      "code": 10892,
+      "name": "Pencil",
+      "department": "Office supplies",
+      "price": 0.99,
+      "quantity": 300,
+      "selected": false
+    },
+    {
+      "id": 4,
+      "code": 10880,
+      "name": "Eraser",
+      "department": "Office supplies",
+      "price": 1.59,
+      "quantity": 259,
+      "selected": false
+    },
+    {
+      "id": 5,
+      "code": 10095,
+      "name": "Paperclips",
+      "department": "Office supplies",
+      "price": 2.5,
+      "quantity": 83,
+      "selected": false
+    },
+    {
+      "id": 6,
+      "code": 15900,
+      "name": "Chili beans",
+      "department": "Canned food",
+      "price": 1.25,
+      "quantity": 52,
+      "selected": false
+    },
+    {
+      "id": 7,
+      "code": 15324,
+      "name": "Tuna",
+      "department": "Canned food",
+      "price": 2.84,
+      "quantity": 112,
+      "selected": false
+    },
+    {
+      "id": 8,
+      "code": 15066,
+      "name": "Sardines",
+      "department": "Canned food",
+      "price": 0.99,
+      "quantity": 67,
+      "selected": false
+    },
+    {
+      "id": 9,
+      "code": 15250,
+      "name": "Chicken noodle soup",
+      "department": "Canned food",
+      "price": 1.98,
+      "quantity": 124,
+      "selected": false
+    },
+    {
+      "id": 10,
+      "code": 15287,
+      "name": "Whole kernel corn",
+      "department": "Canned food",
+      "price": 1.19,
+      "quantity": 205,
+      "selected": false
+    },
+    {
+      "id": 11,
+      "code": 15391,
+      "name": "Sweet peas",
+      "department": "Canned food",
+      "price": 1.19,
+      "quantity": 90,
+      "selected": false
+    },
+    {
+      "id": 12,
+      "code": 14377,
+      "name": "Shampoo",
+      "department": "Personal hygiene",
+      "price": 4.89,
+      "quantity": 31,
+      "selected": false
+    },
+    {
+      "id": 13,
+      "code": 14378,
+      "name": "Cleanser",
+      "department": "Personal hygiene",
+      "price": 5.6,
+      "quantity": 25,
+      "selected": false
+    },
+    {
+      "id": 14,
+      "code": 14900,
+      "name": "Body wash",
+      "department": "Personal hygiene",
+      "price": 3.99,
+      "quantity": 50,
+      "selected": false
+    },
+    {
+      "id": 15,
+      "code": 18234,
+      "name": "Oreos",
+      "department": "Snacks",
+      "price": 3.48,
+      "quantity": 110,
+      "selected": false
+    },
+    {
+      "id": 16,
+      "code": 18109,
+      "name": "Beef jerky",
+      "department": "Snacks",
+      "price": 7.5,
+      "quantity": 78,
+      "selected": false
+    },
+    {
+      "id": 17,
+      "code": 18762,
+      "name": "Hot cheetos",
+      "department": "Snacks",
+      "price": 3.98,
+      "quantity": 15,
+      "selected": false
+    },
+    {
+      "code": "12345",
+      "name": "Doritos",
+      "department": "Snacks",
+      "price": "1.88",
+      "quantity": "50",
+      "id": 18,
+      "selected": false
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "num": "B4523ACD",
+      "date": "2022-02-22",
+      "itemCode": 18762,
+      "item": "Hot Cheetos",
+      "units": 100,
+      "total": 299,
+      "unitPrice": 2.99,
+      "shipped": false
+    },
+    {
+      "id": 2,
+      "num": "B0921JKC",
+      "date": "2022-02-25",
+      "itemCode": 14377,
+      "item": "Shampoo",
+      "units": 75,
+      "total": 281.25,
+      "unitPrice": 3.75,
+      "shipped": false
+    },
+    {
+      "id": 1,
+      "num": "F2310ZXP",
+      "date": "2022-02-20",
+      "itemCode": 10325,
+      "item": "Binder",
+      "units": 60,
+      "total": 150,
+      "unitPrice": 2.50,
+      "shipped": true
+    }
+  ]
+}
